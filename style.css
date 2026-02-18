@@ -385,7 +385,7 @@ footer{
     }
     .resume-container {
         flex-direction: column;
-        gap: 100px !important;
+        gap: 100px;
     }
     #resume .button{
         margin-bottom: 0;
